@@ -1,0 +1,501 @@
+position	album_id	artist	name	date	genres	rating	num_ratings	num_reviews
+1	[Album45]	Radiohead	OK Computer	16 June 1997	['Alternative Rock', 'Art Rock']	4.23	60527.0	1584.0
+2	[Album46]	Radiohead	Kid A	3 October 2000	['Art Rock', 'Experimental Rock', 'Electronic']	4.23	50279.0	714.0
+3	[Album976]	Pink Floyd	The Dark Side of the Moon	23 March 1973	['Art Rock', 'Progressive Rock']	4.23	50633.0	1522.0
+4	[Album974]	Pink Floyd	Wish You Were Here	12 September 1975	['Progressive Rock', 'Art Rock']	4.29	41760.0	940.0
+5	[Album2328]	King Crimson	In the Court of the Crimson King	10 October 1969	['Progressive Rock', 'Art Rock']	4.31	37873.0	827.0
+6	[Album173]	The Velvet Underground	The Velvet Underground & Nico	12 March 1967	['Art Rock', 'Experimental Rock']	4.25	40013.0	919.0
+7	[Album355]	My Bloody Valentine	Loveless	4 November 1991	['Shoegaze', 'Noise Pop']	4.24	41108.0	1156.0
+8	[Album6286502]	Kendrick Lamar	To Pimp a Butterfly	15 March 2015	['Conscious Hip Hop', 'West Coast Hip Hop', 'Jazz Rap']	4.24	34762.0	322.0
+9	[Album1052924]	Radiohead	In Rainbows	10 October 2007	['Art Rock', 'Alternative Rock']	4.16	40540.0	730.0
+10	[Album63]	The Beach Boys	Pet Sounds	16 May 1966	['Baroque Pop']	4.19	31745.0	885.0
+11	[Album1245]	Neutral Milk Hotel	In the Aeroplane Over the Sea	10 February 1998	['Indie Folk', 'Indie Rock']	4.11	41032.0	942.0
+12	[Album3050748]	Kanye West	My Beautiful Dark Twisted Fantasy	22 November 2010	['Pop Rap', 'Hip Hop']	4.05	38357.0	576.0
+13	[Album2602]	Godspeed You Black Emperor!	Lift Yr. Skinny Fists Like Antennas to Heaven!	9 October 2000	['Post-Rock']	4.17	29742.0	585.0
+14	[Album3597082]	Kendrick Lamar	good kid, m.A.A.d city	22 October 2012	['West Coast Hip Hop', 'Conscious Hip Hop']	4.18	31311.0	273.0
+15	[Album12]	The Beatles	Abbey Road	26 September 1969	['Pop Rock']	4.26	38533.0	1125.0
+16	[Album1036]	Talking Heads	Remain in Light	8 October 1980	['New Wave', 'Post-Punk']	4.25	30560.0	478.0
+17	[Album2571]	Miles Davis	Kind of Blue	17 August 1959	['Modal Jazz', 'Cool Jazz']	4.24	26266.0	539.0
+18	[Album142671]	Madvillain	Madvillainy	23 March 2004	['Abstract Hip Hop']	4.2	26806.0	316.0
+19	[Album2276]	Black Sabbath	Paranoid	18 September 1970	['Heavy Metal', 'Hard Rock']	4.2	31297.0	566.0
+20	[Album544]	Joy Division	Unknown Pleasures	15 June 1979	['Post-Punk']	4.12	34409.0	556.0
+21	[Album978]	Pink Floyd	Animals	21 January 1977	['Progressive Rock', 'Art Rock']	4.12	31600.0	665.0
+22	[Album623]	David Bowie	The Rise and Fall of Ziggy Stardust and the Spiders From Mars	16 June 1972	['Glam Rock', 'Pop Rock']	4.26	33945.0	705.0
+23	[Album43]	Led Zeppelin	Led Zeppelin [IV]	8 November 1971	['Hard Rock']	4.11	31596.0	865.0
+24	[Album1089]	Pixies	Doolittle	17 April 1989	['Alternative Rock', 'Indie Rock']	4.13	29979.0	540.0
+25	[Album206]	The Beatles	Revolver	5 August 1966	['Pop Rock', 'Psychedelic Pop']	4.24	37620.0	1223.0
+26	[Album10702]	John Coltrane	A Love Supreme	February 1965	['Spiritual Jazz', 'Avant-Garde Jazz']	4.31	21402.0	421.0
+27	[Album164]	The Smiths	The Queen Is Dead	16 June 1986	['Jangle Pop', 'Indie Pop']	4.13	30543.0	519.0
+28	[Album11082]	Nas	Illmatic	19 April 1994	['East Coast Hip Hop', 'Boom Bap', 'Hardcore Hip Hop']	4.19	25578.0	584.0
+29	[Album90]	Nick Drake	Pink Moon	25 February 1972	['Contemporary Folk', 'Singer/Songwriter']	4.18	25419.0	516.0
+30	[Album126]	Nirvana	Nevermind	24 September 1991	['Grunge', 'Alternative Rock']	3.92	38045.0	991.0
+31	[Album2671]	Slint	Spiderland	27 March 1991	['Post-Rock', 'Math Rock', 'Post-Hardcore']	4.15	27345.0	470.0
+32	[Album629]	David Bowie	Low	14 January 1977	['Art Rock']	4.13	25219.0	509.0
+33	[Album11014]	Wu-Tang Clan	Enter the Wu-Tang (36 Chambers)	9 November 1993	['East Coast Hip Hop', 'Boom Bap', 'Hardcore Hip Hop']	4.2	23647.0	412.0
+34	[Album1189]	The Doors	The Doors	4 January 1967	['Psychedelic Rock']	4.1	27296.0	552.0
+35	[Album16]	The Beatles	Sgt. Pepper's Lonely Hearts Club Band	1 June 1967	['Psychedelic Pop', 'Pop Rock']	4.14	38274.0	838.0
+36	[Album185644]	Arcade Fire	Funeral	14 September 2004	['Indie Rock', 'Chamber Pop']	3.99	33666.0	845.0
+37	[Album6543]	King Crimson	Red	6 October 1974	['Progressive Rock', 'Art Rock']	4.22	20076.0	426.0
+38	[Album324]	The Cure	Disintegration	2 May 1989	['Gothic Rock', 'Post-Punk']	4.17	24861.0	384.0
+39	[Album44]	Radiohead	The Bends	13 March 1995	['Alternative Rock']	3.85	40445.0	842.0
+40	[Album51]	Bob Dylan	Highway 61 Revisited	30 August 1965	['Folk Rock', 'Singer/Songwriter']	4.18	23568.0	597.0
+41	[Album450392]	Godspeed You Black Emperor!	F♯A♯∞	14 August 1997	['Post-Rock']	4.11	22581.0	346.0
+42	[Album1167]	Television	Marquee Moon	8 February 1977	['Art Punk', 'Art Rock']	4.14	22998.0	376.0
+43	[Album17906]	Mingus	The Black Saint and the Sinner Lady	July 1963	['Avant-Garde Jazz', 'Third Stream']	4.35	16679.0	347.0
+44	[Album8]	The Beatles	The Beatles [White Album]	22 November 1968	['Pop Rock', 'Rock']	4.15	31181.0	1054.0
+45	[Album2115]	Sigur Rós	Ágætis byrjun	12 June 1999	['Post-Rock']	4.05	23897.0	490.0
+46	[Album2612]	DJ Shadow	Endtroducing.....	19 November 1996	['Instrumental Hip Hop', 'Experimental Hip Hop', 'Plunderphonics']	4.12	23004.0	393.0
+47	[Album545]	Joy Division	Closer	18 July 1980	['Post-Punk']	4.1	25601.0	552.0
+48	[Album1593]	Metallica	Master of Puppets	3 March 1986	['Thrash Metal']	4.01	27474.0	902.0
+49	[Album1117]	Sonic Youth	Daydream Nation	18 October 1988	['Noise Rock', 'Alternative Rock']	4.06	24877.0	491.0
+50	[Album281704]	Sufjan Stevens	Illinois	5 July 2005	['Chamber Pop', 'Singer/Songwriter']	4.07	23946.0	388.0
+51	[Album1225777]	Metallica	Ride the Lightning	30 July 1984	['Thrash Metal']	4.05	24310.0	608.0
+52	[Album2277]	Black Sabbath	Master of Reality	21 July 1971	['Heavy Metal']	4.13	21237.0	438.0
+53	[Album2711]	Slowdive	Souvlaki	17 May 1993	['Dream Pop', 'Shoegaze']	4.09	23031.0	273.0
+54	[Album2590]	Aphex Twin	Selected Ambient Works 85-92	9 November 1992	['Ambient Techno', 'IDM']	4.02	23016.0	274.0
+55	[Album94103]	Kanye West	The College Dropout	10 February 2004	['Hip Hop', 'Pop Rap']	4.0	26967.0	293.0
+56	[Album7406]	A Tribe Called Quest	The Low End Theory	24 September 1991	['Jazz Rap', 'East Coast Hip Hop', 'Conscious Hip Hop']	4.11	19922.0	283.0
+57	[Album882]	Björk	Homogenic	22 September 1997	['Art Pop', 'Electronic']	4.06	23401.0	289.0
+58	[Album128]	Nirvana	In utero	21 September 1993	['Grunge', 'Alternative Rock']	3.96	28496.0	523.0
+59	[Album236]	The Clash	London Calling	14 December 1979	['New Wave', 'Punk Rock']	4.03	25867.0	737.0
+60	[Album7548871]	Danny Brown	Atrocity Exhibition	30 September 2016	['Experimental Hip Hop', 'Hardcore Hip Hop']	4.07	20288.0	156.0
+61	[Album94]	Bob Dylan	Blonde on Blonde	20 June 1966	['Folk Rock', 'Singer/Songwriter']	4.17	19785.0	447.0
+62	[Album6853748]	David Bowie	★ [Blackstar]	8 January 2016	['Art Rock']	4.04	21337.0	287.0
+63	[Album3892102]	Death Grips	The Money Store	24 April 2012	['Hardcore Hip Hop', 'Industrial Hip Hop', 'Experimental Hip Hop']	4.0	29074.0	272.0
+64	[Album10394]	Miles Davis	In a Silent Way	30 July 1969	['Jazz Fusion']	4.22	14388.0	261.0
+65	[Album4588]	Miles Davis	Bitches Brew	30 March 1970	['Jazz Fusion', 'Avant-Garde Jazz']	4.16	16398.0	312.0
+66	[Album11]	The Jimi Hendrix Experience	Are You Experienced	12 May 1967	['Blues Rock', 'Psychedelic Rock', 'Acid Rock']	4.13	20615.0	513.0
+67	[Album2660]	Portishead	Dummy	22 August 1994	['Trip Hop']	4.1	25061.0	389.0
+68	[Album5721]	Yes	Close to the Edge	8 September 1972	['Symphonic Prog', 'Progressive Rock']	4.13	18616.0	441.0
+69	[Album3137]	Kate Bush	Hounds of Love	16 September 1985	['Art Pop', 'Progressive Pop']	4.14	18175.0	233.0
+70	[Album2027]	Led Zeppelin	Led Zeppelin	12 January 1969	['Hard Rock', 'Blues Rock']	3.97	25624.0	609.0
+71	[Album2157]	Black Sabbath	Black Sabbath	13 February 1970	['Heavy Metal', 'Hard Rock']	4.07	21946.0	556.0
+72	[Album2779]	Talk Talk	Laughing Stock	19 November 1991	['Post-Rock']	4.12	15701.0	281.0
+73	[Album50]	Bob Dylan	Blood on the Tracks	20 January 1975	['Singer/Songwriter', 'Folk Rock']	4.17	17256.0	423.0
+74	[Album6156]	Can	Tago Mago	10 December 1971	['Krautrock', 'Psychedelic Rock', 'Experimental Rock']	4.09	19688.0	460.0
+75	[Album205]	The Beatles	Rubber Soul	3 December 1965	['Pop Rock']	4.04	29250.0	692.0
+76	[Album628]	David Bowie	Station to Station	23 January 1976	['Art Rock']	4.09	17808.0	343.0
+77	[Album975]	Pink Floyd	Meddle	5 November 1971	['Progressive Rock']	3.97	24292.0	519.0
+78	[Album1705]	Radiohead	Amnesiac	4 June 2001	['Art Rock', 'Experimental Rock']	3.8	33201.0	550.0
+79	[Album2438]	Björk	Vespertine	27 August 2001	['Art Pop', 'Electronic']	4.09	18327.0	231.0
+80	[Album3120]	Leonard Cohen	Songs of Leonard Cohen	27 December 1967	['Contemporary Folk', 'Singer/Songwriter']	4.15	15117.0	285.0
+81	[Album453563]	Fishmans	Long Season	25 October 1996	['Dream Pop', 'Neo-Psychedelia', 'Progressive Pop']	4.16	15141.0	134.0
+82	[Album2161]	The Jimi Hendrix Experience	Electric Ladyland	25 October 1968	['Psychedelic Rock', 'Blues Rock', 'Acid Rock']	4.14	16961.0	425.0
+83	[Album2679]	Talk Talk	Spirit of Eden	16 September 1988	['Post-Rock']	4.07	15617.0	324.0
+84	[Album2642]	The Microphones	The Glow Pt. 2	25 September 2001	['Indie Folk', 'Psychedelic Folk', 'Lo-Fi / Slacker Rock']	4.11	19151.0	249.0
+85	[Album42]	Led Zeppelin	Led Zeppelin II	22 October 1969	['Hard Rock', 'Blues Rock']	3.95	24118.0	584.0
+86	[Album174]	The Velvet Underground	White Light / White Heat	30 January 1968	['Experimental Rock', 'Noise Rock', 'Proto-Punk', 'Art Rock']	4.04	21595.0	491.0
+87	[Album17997]	Interpol	Turn On the Bright Lights	20 August 2002	['Post-Punk Revival']	3.95	23450.0	495.0
+88	[Album4390]	Frank Zappa	Hot Rats	10 October 1969	['Jazz-Rock', 'Jazz Fusion']	4.07	16657.0	348.0
+89	[Album294]	Tom Waits	Rain Dogs	30 September 1985	['Singer/Songwriter', 'Experimental Rock']	4.09	17415.0	345.0
+90	[Album218218]	Kanye West	Late Registration	30 August 2005	['Hip Hop']	3.95	24098.0	195.0
+91	[Album5892]	Marvin Gaye	What's Going On	21 May 1971	['Soul']	4.1	15625.0	330.0
+92	[Album2339]	Neil Young	After the Gold Rush	19 September 1970	['Folk Rock', 'Singer/Songwriter', 'Country Rock']	4.1	16559.0	375.0
+93	[Album5115]	Can	Future Days	September 1973	['Krautrock']	4.12	14261.0	235.0
+94	[Album15269]	Swans	Soundtracks for the Blind	22 October 1996	['Experimental Rock', 'Post-Rock', 'Experimental']	4.13	14481.0	199.0
+95	[Album1311]	Elliott Smith	Either / Or	25 February 1997	['Singer/Songwriter', 'Indie Folk']	4.08	18483.0	255.0
+96	[Album22312]	Genius/GZA	Liquid Swords	7 November 1995	['East Coast Hip Hop', 'Hardcore Hip Hop', 'Boom Bap']	4.12	14884.0	316.0
+97	[Album1179]	Cocteau Twins	Heaven or Las Vegas	17 September 1990	['Dream Pop']	4.05	16825.0	175.0
+98	[Album7630705]	Frank Ocean	Blonde	20 August 2016	['Alternative R&B', 'Art Pop', 'Neo-Soul']	4.01	22408.0	213.0
+99	[Album2591]	Boards of Canada	Music Has the Right to Children	20 April 1998	['IDM']	3.96	19100.0	289.0
+100	[Album622]	David Bowie	Hunky Dory	17 December 1971	['Glam Rock', 'Pop Rock', 'Art Rock']	4.06	24035.0	495.0
+101	[Album1088]	Pixies	Surfer Rosa	21 March 1988	['Indie Rock', 'Alternative Rock']	3.96	21863.0	366.0
+102	[Album969]	Pink Floyd	The Wall	30 November 1979	['Rock Opera', 'Art Rock']	3.8	32465.0	737.0
+103	[Album630]	David Bowie	"""Heroes"""	14 October 1977	['Art Rock']	3.98	19589.0	273.0
+104	[Album845]	The Stooges	Fun House	September 1970	['Proto-Punk', 'Garage Rock', 'Hard Rock']	4.1	15716.0	444.0
+105	[Album93]	Bob Dylan	Bringing It All Back Home	22 March 1965	['Folk Rock', 'Singer/Songwriter', 'Contemporary Folk']	4.13	15053.0	376.0
+106	[Album398852]	J Dilla	Donuts	7 February 2006	['Instrumental Hip Hop']	4.04	15178.0	235.0
+107	[Album1030]	Pink Floyd	The Piper at the Gates of Dawn	4 August 1967	['Psychedelic Rock', 'Psychedelic Pop']	3.88	25395.0	676.0
+108	[Album6136253]	Sufjan Stevens	Carrie & Lowell	31 March 2015	['Indie Folk', 'Singer/Songwriter']	4.04	18360.0	203.0
+109	[Album706]	Eno	Another Green World	September 1975	['Art Rock']	4.02	16241.0	298.0
+110	[Album5196775]	Swans	To Be Kind	13 May 2014	['Experimental Rock', 'Post-Rock']	3.98	17174.0	239.0
+111	[Album175]	The Velvet Underground	The Velvet Underground	March 1969	['Pop Rock']	4.1	19387.0	393.0
+112	[Album15]	The Beatles	Magical Mystery Tour	27 November 1967	['Psychedelic Pop', 'Pop Rock']	4.06	23787.0	553.0
+113	[Album7381]	OutKast	Aquemini	29 September 1998	['Southern Hip Hop', 'Conscious Hip Hop']	4.11	13022.0	148.0
+114	[Album160]	Smashing Pumpkins	Siamese Dream	26 July 1993	['Alternative Rock']	3.96	20056.0	460.0
+115	[Album8410429]	Tyler, the Creator	Flower Boy	21 July 2017	['West Coast Hip Hop']	3.88	22291.0	159.0
+116	[Album2542]	Massive Attack	Mezzanine	20 April 1998	['Trip Hop']	4.03	20977.0	327.0
+117	[Album9363]	The Zombies	Odessey and Oracle	19 April 1968	['Psychedelic Pop', 'Baroque Pop']	4.09	13902.0	416.0
+118	[Album1277]	Love	Forever Changes	November 1967	['Psychedelic Pop', 'Psychedelic Rock', 'Psychedelic Folk']	4.03	16600.0	530.0
+119	[Album231]	Can	Ege bamyası	October 1972	['Krautrock']	4.04	14965.0	236.0
+120	[Album7381986]	Radiohead	A Moon Shaped Pool	8 May 2016	['Art Pop', 'Art Rock', 'Chamber Pop']	3.87	24050.0	264.0
+121	[Album145]	The Rolling Stones	Sticky Fingers	23 April 1971	['Blues Rock']	4.03	14702.0	376.0
+122	[Album3783]	Megadeth	Rust in Peace	21 September 1990	['Thrash Metal']	4.0	15965.0	549.0
+123	[Album1711]	Nine Inch Nails	The Downward Spiral	8 March 1994	['Industrial Rock']	4.0	19345.0	385.0
+124	[Album2611]	The Avalanches	Since I Left You	27 November 2000	['Plunderphonics']	3.98	17350.0	247.0
+125	[Album2632]	Modest Mouse	The Lonesome Crowded West	18 November 1997	['Indie Rock']	4.05	14896.0	240.0
+126	[Album10255382]	Tyler, the Creator	Igor	17 May 2019	['Neo-Soul']	3.83	23196.0	253.0
+127	[Album2771]	Slayer	Reign in Blood	7 October 1986	['Thrash Metal']	3.96	17120.0	602.0
+128	[Album8862]	A Tribe Called Quest	Midnight Marauders	9 November 1993	['East Coast Hip Hop', 'Jazz Rap', 'Boom Bap']	4.1	13226.0	162.0
+129	[Album602]	Depeche Mode	Violator	19 March 1990	['Synthpop']	3.99	16641.0	339.0
+130	[Album185]	The Who	Who's Next	25 August 1971	['Hard Rock']	3.97	17124.0	531.0
+131	[Album52]	Nick Drake	Five Leaves Left	1 September 1969	['Singer/Songwriter', 'Chamber Folk', 'Contemporary Folk']	4.05	14905.0	272.0
+132	[Album67]	Belle and Sebastian	If You're Feeling Sinister	18 November 1996	['Chamber Pop', 'Twee Pop', 'Indie Pop']	3.99	16327.0	331.0
+133	[Album2689]	Wilco	Yankee Hotel Foxtrot	23 April 2002	['Indie Rock', 'Alternative Rock']	3.92	19142.0	360.0
+134	[Album4660]	Stevie Wonder	Songs in the Key of Life	28 September 1976	['Soul']	4.16	9433.0	221.0
+135	[Album10701]	John Coltrane	Giant Steps	27 January 1960	['Hard Bop']	4.11	11485.0	187.0
+136	[Album2402]	Neil Young	On the Beach	19 July 1974	['Singer/Songwriter', 'Folk Rock', 'Country Rock']	4.11	11654.0	316.0
+137	[Album902]	Jeff Buckley	Grace	23 August 1994	['Singer/Songwriter', 'Alternative Rock']	3.96	18942.0	553.0
+138	[Album4203]	Death	Symbolic	21 March 1995	['Technical Death Metal']	4.07	11932.0	209.0
+139	[Album320]	The Cure	Pornography	3 May 1982	['Gothic Rock', 'Post-Punk']	4.0	17069.0	274.0
+140	[Album1905]	Tool	Lateralus	15 May 2001	['Alternative Metal', 'Progressive Metal']	3.93	19466.0	451.0
+141	[Album5734]	Stevie Wonder	Innervisions	3 August 1973	['Soul']	4.11	10550.0	233.0
+142	[Album9186703]	Kids See Ghosts	Kids See Ghosts	8 June 2018	['Pop Rap', 'Experimental Hip Hop']	3.78	22900.0	178.0
+143	[Album1206880]	Have a Nice Life	Deathconsciousness	25 January 2008	['Post-Punk', 'Shoegaze']	4.0	17559.0	254.0
+144	[Album2436]	The Strokes	Is This It	20 August 2001	['Indie Rock', 'Garage Rock Revival']	3.9	26493.0	513.0
+145	[Album4568422]	Kanye West	Yeezus	18 June 2013	['Experimental Hip Hop']	3.67	28554.0	325.0
+146	[Album2863]	Daft Punk	Discovery	13 March 2001	['French House']	3.88	20646.0	266.0
+147	[Album933]	Rage Against the Machine	Rage Against the Machine	10 November 1992	['Rap Metal', 'Alternative Metal']	3.93	19337.0	441.0
+148	[Album133]	Pavement	Crooked Rain, Crooked Rain	14 February 1994	['Indie Rock']	3.98	15967.0	261.0
+149	[Album6544]	King Crimson	Larks' Tongues in Aspic	23 March 1973	['Progressive Rock']	4.02	13623.0	272.0
+150	[Album1035]	Talking Heads	Fear of Music	3 August 1979	['New Wave', 'Post-Punk']	4.01	16233.0	244.0
+151	[Album383957]	The Smiths	Hatful of Hollow	12 November 1984	['Jangle Pop', 'Indie Pop']	4.09	12056.0	88.0
+152	[Album636623]	Joanna Newsom	Ys	14 November 2006	['Chamber Folk', 'Singer/Songwriter', 'Progressive Folk']	3.98	14061.0	286.0
+153	[Album993]	The Rolling Stones	Let It Bleed	29 November 1969	['Blues Rock']	4.0	14196.0	371.0
+154	[Album11222]	Charles Mingus	Mingus Ah Um	14 September 1959	['Post-Bop']	4.1	10457.0	164.0
+155	[Album880]	Björk	Post	15 June 1995	['Art Pop', 'Electronic']	3.9	19561.0	213.0
+156	[Album2338]	Neil Young	Harvest	25 February 1972	['Country Rock', 'Folk Rock', 'Singer/Songwriter']	4.01	15116.0	329.0
+157	[Album2337]	Neil Young	Everybody Knows This Is Nowhere	14 May 1969	['Country Rock', 'Singer/Songwriter']	4.07	11638.0	293.0
+158	[Album51446]	Kraftwerk	Die Mensch-Maschine	19 May 1978	['Synthpop', 'Electronic']	3.98	14007.0	219.0
+159	[Album2028]	Led Zeppelin	Led Zeppelin III	5 October 1970	['Hard Rock', 'Folk Rock']	3.85	21222.0	488.0
+160	[Album356]	Van Morrison	Astral Weeks	29 November 1968	['Singer/Songwriter', 'Chamber Folk']	4.0	12991.0	412.0
+161	[Album5687]	Boards of Canada	Geogaddi	18 February 2002	['IDM']	3.96	14258.0	190.0
+162	[Album996]	The Rolling Stones	Exile on Main St.	26 May 1972	['Blues Rock', 'Rock']	3.99	13336.0	314.0
+163	[Album3287]	Joni Mitchell	Blue	June 1971	['Singer/Songwriter', 'Contemporary Folk']	4.02	12523.0	290.0
+164	[Album2030]	Led Zeppelin	Physical Graffiti	24 February 1975	['Hard Rock']	3.94	16940.0	465.0
+165	[Album1904]	Tool	Ænima	1 October 1996	['Alternative Metal']	3.91	17691.0	431.0
+166	[Album11392]	John Coltrane	My Favorite Things	March 1961	['Modal Jazz', 'Post-Bop']	4.11	9744.0	151.0
+167	[Album2029]	Led Zeppelin	Houses of the Holy	28 March 1973	['Hard Rock']	3.92	17725.0	450.0
+168	[Album5919]	Genesis	Selling England by the Pound	12 October 1973	['Progressive Rock', 'Symphonic Prog']	4.01	13049.0	316.0
+169	[Album3873725]	Swans	The Seer	28 August 2012	['Experimental Rock', 'Post-Rock']	3.93	14504.0	246.0
+170	[Album19286]	Queens of the Stone Age	Songs for the Deaf	27 August 2002	['Stoner Rock', 'Alternative Rock']	3.93	19784.0	331.0
+171	[Album2584]	Prince and The Revolution	Purple Rain	25 June 1984	['Pop Rock', 'Film Soundtrack', 'Synth Funk']	4.07	14033.0	315.0
+172	[Album846]	Iggy and The Stooges	Raw Power	February 1973	['Proto-Punk', 'Garage Rock', 'Hard Rock']	4.03	13643.0	368.0
+173	[Album2320]	Fleetwood Mac	Rumours	4 February 1977	['Pop Rock', 'Soft Rock']	3.99	17113.0	367.0
+174	[Album179]	Weezer	Weezer [Blue Album]	10 May 1994	['Power Pop', 'Alternative Rock']	3.9	24120.0	438.0
+175	[Album7380]	OutKast	ATLiens	27 August 1996	['Southern Hip Hop']	4.05	10824.0	115.0
+176	[Album56332]	Radiohead	Hail to the Thief	9 June 2003	['Alternative Rock', 'Art Rock']	3.67	30138.0	481.0
+177	[Album3122]	Leonard Cohen	Songs of Love and Hate	17 March 1971	['Singer/Songwriter', 'Contemporary Folk']	4.05	10570.0	177.0
+178	[Album2634]	Modest Mouse	The Moon & Antarctica	13 June 2000	['Indie Rock']	3.96	15224.0	269.0
+179	[Album6296]	Bob Dylan	The Freewheelin' Bob Dylan	27 May 1963	['Contemporary Folk', 'Singer/Songwriter']	3.98	14796.0	363.0
+180	[Album314]	The Stone Roses	The Stone Roses	13 March 1989	['Baggy / Madchester']	3.98	15507.0	399.0
+181	[Album52915]	Kraftwerk	Trans Europa Express	March 1977	['Electronic']	3.98	11978.0	193.0
+182	[Album9079]	The Notorious B.I.G.	Ready to Die	13 September 1994	['East Coast Hip Hop', 'Gangsta Rap', 'Boom Bap']	4.01	12387.0	224.0
+183	[Album2090]	Iron Maiden	Powerslave	3 September 1984	['Heavy Metal']	3.98	13926.0	317.0
+184	[Album1848760]	Animal Collective	Merriweather Post Pavilion	20 January 2009	['Psychedelic Pop', 'Neo-Psychedelia', 'Indietronica', 'Sunshine Pop']	3.72	24532.0	686.0
+185	[Album5720]	Yes	Fragile	26 November 1971	['Progressive Rock']	3.94	14582.0	325.0
+186	[Album4354997]	Freddie Gibbs & Madlib	Piñata	18 March 2014	['Gangsta Rap']	3.95	13394.0	105.0
+187	[Album13083]	Steve Reich	Music for 18 Musicians	April 1978	['Minimalism']	4.08	7804.0	125.0
+188	[Album641]	The Flaming Lips	The Soft Bulletin	22 June 1999	['Neo-Psychedelia', 'Psychedelic Pop']	3.89	17086.0	358.0
+189	[Album1263018]	Portishead	Third	28 April 2008	['Electronic', 'Experimental Rock']	3.9	14475.0	368.0
+190	[Album2615]	Built to Spill	Perfect From Now On	28 January 1997	['Indie Rock']	4.02	10843.0	149.0
+191	[Album23085]	Sigur Rós	( )	28 October 2002	['Post-Rock']	3.92	14934.0	328.0
+192	[Album185833]	MF DOOM	Mm.. Food	16 November 2004	['East Coast Hip Hop', 'Abstract Hip Hop']	3.97	13293.0	111.0
+193	[Album4648]	The Kinks	The Kinks Are the Village Green Preservation Society	22 November 1968	['Pop Rock']	4.07	11282.0	321.0
+194	[Album7675]	Opeth	Blackwater Park	12 March 2001	['Progressive Metal']	3.93	13595.0	354.0
+195	[Album14795]	Pharoah Sanders	Karma	May 1969	['Spiritual Jazz']	4.1	7323.0	134.0
+196	[Album4014]	Burzum	Filosofem	31 January 1996	['Atmospheric Black Metal']	3.91	13828.0	209.0
+197	[Album9486927]	Daughters	You Won't Get What You Want	26 October 2018	['Noise Rock', 'Industrial Rock']	3.89	16412.0	226.0
+198	[Album5037]	Black Sabbath	Sabbath Bloody Sabbath	28 December 1973	['Heavy Metal', 'Hard Rock']	3.99	13819.0	314.0
+199	[Album51085]	Sweet Trip	Velocity : Design : Comfort	17 June 2003	['Glitch Pop', 'IDM', 'Shoegaze']	4.03	10922.0	133.0
+200	[Album5845]	Jethro Tull	Thick as a Brick	10 March 1972	['Progressive Rock']	4.0	10466.0	251.0
+201	[Album1190]	The Doors	Strange Days	25 September 1967	['Psychedelic Rock']	3.94	14495.0	274.0
+202	[Album2086]	Iron Maiden	The Number of the Beast	22 March 1982	['NWOBHM', 'Heavy Metal']	3.92	15643.0	446.0
+203	[Album3581]	Bruce Springsteen	Born to Run	25 August 1975	['Heartland Rock']	3.96	12005.0	313.0
+204	[Album22562]	Mobb Deep	The Infamous	25 April 1995	['East Coast Hip Hop', 'Gangsta Rap', 'Boom Bap', 'Hardcore Hip Hop']	4.06	9260.0	183.0
+205	[Album1045]	Alice in Chains	Dirt	29 September 1992	['Grunge', 'Alternative Metal']	3.92	15875.0	445.0
+206	[Album2325]	The Jimi Hendrix Experience	Axis: Bold as Love	1 December 1967	['Psychedelic Rock', 'Blues Rock']	3.99	13427.0	304.0
+207	[Album133797]	Angelo Badalamenti	Soundtrack From Twin Peaks	31 August 1990	['Television Music', 'Dark Jazz']	4.11	8154.0	84.0
+208	[Album161]	The Smashing Pumpkins	Mellon Collie and the Infinite Sadness	23 October 1995	['Alternative Rock']	3.87	17253.0	467.0
+209	[Album3770]	Metallica	...And Justice for All	25 August 1988	['Thrash Metal']	3.81	20098.0	576.0
+210	[Album8328]	Creedence Clearwater Revival	Cosmo's Factory	25 July 1970	['Swamp Rock']	4.05	9080.0	217.0
+211	[Album9655]	Gang of Four	Entertainment!	25 September 1979	['Post-Punk']	3.97	12843.0	261.0
+212	[Album3136]	Kate Bush	The Dreaming	1 September 1982	['Art Pop', 'Progressive Pop']	4.02	10089.0	206.0
+213	[Album4599]	Curtis Mayfield	Superfly	July 1972	['Film Soundtrack', 'Funk', 'Chicago Soul']	4.09	7610.0	147.0
+214	[Album1430]	Wire	Pink Flag	December 1977	['Punk Rock', 'Art Punk']	3.95	14291.0	271.0
+215	[Album5168]	King Crimson	Discipline	22 September 1981	['Art Rock', 'Progressive Rock', 'New Wave']	3.96	12054.0	216.0
+216	[Album1064977]	Burial	Untrue	5 November 2007	['Future Garage', 'Dubstep']	3.91	17453.0	294.0
+217	[Album89]	Nick Drake	Bryter Layter	1 November 1970	['Singer/Songwriter', 'Chamber Folk', 'Contemporary Folk']	3.96	13124.0	251.0
+218	[Album6116]	John Coltrane	Blue Train	February 1958	['Hard Bop']	4.03	10249.0	136.0
+219	[Album1990]	Michael Jackson	Thriller	30 November 1982	['Contemporary R&B', 'Pop', 'Dance-Pop']	3.91	15590.0	297.0
+220	[Album35500]	Milton Nascimento	Clube da Esquina	April 1972	['MPB']	4.1	6117.0	84.0
+221	[Album297]	Tom Waits	Swordfishtrombones	September 1983	['Singer/Songwriter', 'Experimental Rock']	4.0	11176.0	182.0
+222	[Album515]	Beastie Boys	Paul's Boutique	25 July 1989	['East Coast Hip Hop']	3.92	12631.0	246.0
+223	[Album4052]	Comus	First Utterance	19 February 1971	['Progressive Folk', 'Psychedelic Folk', 'Freak Folk']	4.01	8815.0	221.0
+224	[Album271115]	Gorillaz	Demon Days	24 May 2005	['Art Pop']	3.76	21028.0	214.0
+225	[Album442]	At the Drive-In	Relationship of Command	12 September 2000	['Post-Hardcore']	3.9	14224.0	253.0
+226	[Album2576]	Dead Kennedys	Fresh Fruit for Rotting Vegetables	2 September 1980	['Hardcore Punk', 'Punk Rock']	3.98	13080.0	277.0
+227	[Album712947]	LCD Soundsystem	Sound of Silver	12 March 2007	['Dance-Punk', 'Indietronica']	3.89	15801.0	212.0
+228	[Album3392]	Rush	Moving Pictures	9 February 1981	['Progressive Rock', 'Hard Rock']	3.91	13054.0	315.0
+229	[Album1175]	Cocteau Twins	Treasure	1 November 1984	['Dream Pop', 'Ethereal Wave']	3.97	13231.0	207.0
+230	[Album9999224]	Weyes Blood	Titanic Rising	5 April 2019	['Baroque Pop', 'Art Pop']	3.85	15357.0	201.0
+231	[Album7764]	Funkadelic	Maggot Brain	12 July 1971	['Funk Rock', 'Funk']	3.96	11629.0	164.0
+232	[Album704]	Eno	Here Come the Warm Jets	February 1974	['Art Rock', 'Experimental Rock']	3.95	11231.0	223.0
+233	[Album14030]	Electric Wizard	Dopethrone	9 October 2000	['Stoner Metal', 'Doom Metal']	3.96	11854.0	212.0
+234	[Album7804852]	A Tribe Called Quest	We got it from Here… Thank You 4 Your service	11 November 2016	['Conscious Hip Hop', 'East Coast Hip Hop', 'Jazz Rap']	3.96	10744.0	90.0
+235	[Album20786]	Converge	Jane Doe	4 September 2001	['Mathcore', 'Metalcore']	3.93	11786.0	246.0
+236	[Album7299]	Public Enemy	It Takes a Nation of Millions to Hold Us Back	14 April 1988	['Political Hip Hop', 'East Coast Hip Hop', 'Hardcore Hip Hop', 'Conscious Hip Hop']	3.93	11303.0	267.0
+237	[Album5166]	Judas Priest	Painkiller	3 September 1990	['Heavy Metal']	4.0	9399.0	247.0
+238	[Album14077]	Kyuss	Kyuss [Welcome to Sky Valley]	21 June 1994	['Stoner Rock', 'Stoner Metal']	3.96	12010.0	217.0
+239	[Album12256]	The Flaming Lips	Yoshimi Battles the Pink Robots	16 July 2002	['Neo-Psychedelia', 'Psychedelic Pop']	3.82	17986.0	369.0
+240	[Album1116]	The Sonic Youth	Sister	June 1987	['Noise Rock', 'Alternative Rock']	3.93	12954.0	189.0
+241	[Album19]	R.E.M.	Murmur	12 April 1983	['Jangle Pop', 'Alternative Rock']	3.91	12981.0	287.0
+242	[Album2287]	Deep Purple	Machine Head	25 March 1972	['Hard Rock']	3.94	11107.0	320.0
+243	[Album2089]	Iron Maiden	Seventh Son of a Seventh Son	11 April 1988	['Heavy Metal']	3.96	10838.0	269.0
+244	[Album7660]	Black Sabbath	Black Sabbath Vol. 4	25 September 1972	['Heavy Metal', 'Hard Rock']	3.93	13712.0	291.0
+245	[Album17499]	Eric Dolphy	Out to Lunch	August 1964	['Avant-Garde Jazz']	3.99	7862.0	141.0
+246	[Album1073]	Metallica	Kill 'Em All	25 July 1983	['Thrash Metal']	3.77	19651.0	396.0
+247	[Album4597]	Herbie Hancock	Head Hunters	13 October 1973	['Jazz Fusion', 'Jazz-Funk']	3.96	10403.0	170.0
+248	[Album16779]	Unwound	Leaves Turn Inside You	17 April 2001	['Post-Hardcore', 'Indie Rock']	3.98	9030.0	126.0
+249	[Album134]	Pearl Jam	Ten	27 August 1991	['Grunge', 'Alternative Rock', 'Hard Rock']	3.77	18225.0	556.0
+250	[Album11218]	Ornette Coleman	The Shape of Jazz to Come	November 1959	['Avant-Garde Jazz']	3.99	7995.0	102.0
+251	[Album992]	The Rolling Stones	Beggars Banquet	6 December 1968	['Roots Rock', 'Rock']	3.97	11732.0	306.0
+252	[Album14798]	Alice Coltrane featuring Pharoah Sanders	Journey in Satchidananda	February 1971	['Spiritual Jazz', 'Avant-Garde Jazz']	4.07	6019.0	73.0
+253	[Album9553]	American Football	American Football	14 September 1999	['Midwest Emo']	3.78	16959.0	176.0
+254	[Album149]	Simon and Garfunkel	Bridge Over Troubled Water	26 January 1970	['Folk Pop', 'Singer/Songwriter']	3.97	10145.0	203.0
+255	[Album1744]	Lou Reed	Transformer	8 November 1972	['Glam Rock', 'Pop Rock']	3.93	15652.0	284.0
+256	[Album37920]	The Microphones	Mount Eerie	21 January 2003	['Avant-Folk', 'Psychedelic Folk']	3.99	8700.0	84.0
+257	[Album5917]	Genesis	Foxtrot	October 1972	['Progressive Rock']	3.97	9585.0	242.0
+258	[Album9753704]	Earl Sweatshirt	Some Rap Songs	30 November 2018	['Abstract Hip Hop', 'Experimental Hip Hop']	3.79	15155.0	150.0
+259	[Album6269116]	Kanye West	The Life of Pablo	14 February 2016	['Pop Rap', 'Hip Hop']	3.61	24547.0	244.0
+260	[Album17249]	This Heat	Deceit	September 1981	['Experimental Rock', 'Post-Punk']	3.98	9304.0	142.0
+261	[Album4600]	Curtis Mayfield	Curtis	September 1970	['Chicago Soul']	4.04	6273.0	105.0
+262	[Album2264]	George Harrison	All Things Must Pass	30 November 1970	['Pop Rock', 'Singer/Songwriter', 'Folk Rock']	4.04	10019.0	320.0
+263	[Album8857731]	Car Seat Headrest	Twin Fantasy	16 February 2018	['Indie Rock']	3.83	13768.0	182.0
+264	[Album5053]	Aphex Twin	Richard D. James Album	4 November 1996	['IDM', 'Drill and Bass']	3.81	15144.0	161.0
+265	[Album5843]	Jethro Tull	Aqualung	19 March 1971	['Progressive Rock']	3.91	11592.0	270.0
+266	[Album163]	The Smiths	The Smiths	20 February 1984	['Jangle Pop', 'Indie Pop']	3.83	17141.0	270.0
+267	[Album180]	Weezer	Pinkerton	24 September 1996	['Alternative Rock', 'Power Pop']	3.84	19985.0	390.0
+268	[Album919]	Dinosaur	You're Living All Over Me	July 1987	['Noise Rock', 'Indie Rock', 'Alternative Rock']	3.88	13213.0	209.0
+269	[Album87]	Nick Cave and The Bad Seeds	Let Love In	19 April 1994	['Alternative Rock', 'Post-Punk']	3.96	10630.0	114.0
+270	[Album4201]	Death	Human	22 October 1991	['Technical Death Metal', 'Death Metal']	3.96	9382.0	149.0
+271	[Album1019220]	Animal Collective	Strawberry Jam	10 September 2007	['Neo-Psychedelia', 'Art Pop']	3.79	17057.0	292.0
+272	[Album4040583]	Frank Ocean	channel ORANGE	10 July 2012	['Alternative R&B', 'Contemporary R&B']	3.78	19772.0	171.0
+273	[Album2009]	System of a Down	Toxicity	4 September 2001	['Alternative Metal']	3.77	17365.0	388.0
+274	[Album4651]	Queen	A Night at the Opera	2 December 1975	['Hard Rock', 'Art Rock']	3.83	14111.0	411.0
+275	[Album624]	David Bowie	Aladdin Sane	12 April 1973	['Glam Rock', 'Art Rock']	3.82	15289.0	286.0
+276	[Album10143]	Robert Wyatt	Rock Bottom	26 July 1974	['Canterbury Scene', 'Art Rock']	3.93	8779.0	194.0
+277	[Album132]	Pavement	Slanted and Enchanted	20 April 1992	['Lo-Fi / Slacker Rock', 'Indie Rock', 'Noise Pop']	3.85	15116.0	288.0
+278	[Album7855]	Ennio Morricone	Il buono, il brutto, il cattivo	23 December 1966	['Film Score', 'Spaghetti Western', 'Cinematic Classical']	4.11	4482.0	77.0
+279	[Album2674]	Patti Smith	Horses	13 December 1975	['Proto-Punk', 'Singer/Songwriter', 'Art Rock']	3.92	11941.0	237.0
+280	[Album7812]	Opeth	Still Life	18 October 1999	['Progressive Metal']	3.94	9399.0	211.0
+281	[Album113]	John Lennon	John Lennon / Plastic Ono Band	11 December 1970	['Singer/Songwriter']	3.93	10141.0	294.0
+282	[Album11692]	Art Blakey and The Jazz Messengers	Art Blakey and The Jazz Messengers [Moanin']	January 1959	['Hard Bop']	4.05	5861.0	94.0
+283	[Album1195]	The Doors	L.A. Woman	29 April 1971	['Blues Rock', 'Psychedelic Rock']	3.9	13102.0	299.0
+284	[Album7187]	The Replacements	Let It Be	September 1984	['Alternative Rock']	3.93	9665.0	215.0
+285	[Album33363]	Fela Kuti	Expensive Shit	1975	['Afrobeat']	4.02	6085.0	68.0
+286	[Album8797]	Aphex Twin	Selected Ambient Works Volume II	7 March 1994	['Ambient', 'Electronic']	3.86	11762.0	204.0
+287	[Album1946]	Deftones	White Pony	20 June 2000	['Alternative Metal']	3.87	12361.0	194.0
+288	[Album357]	Van Morrison	Moondance	28 February 1970	['Singer/Songwriter', 'Folk Rock']	3.98	8494.0	241.0
+289	[Album300]	Yo La Tengo	I Can Hear the Heart Beating as One	22 April 1997	['Indie Rock', 'Noise Pop']	3.91	11571.0	174.0
+290	[Album1312]	Elliott Smith	XO	25 August 1998	['Singer/Songwriter', 'Indie Pop']	3.94	10692.0	144.0
+291	[Album298]	Tom Waits	Bone Machine	8 September 1992	['Singer/Songwriter', 'Experimental Rock']	3.99	8405.0	172.0
+292	[Album756]	Charlie Mingus	Blues & Roots	March 1960	['Post-Bop']	4.05	5384.0	108.0
+293	[Album5113727]	Run the Jewels	Run the Jewels 2	27 October 2014	['Hardcore Hip Hop']	3.79	14426.0	97.0
+294	[Album2135]	The Dave Brubeck Quartet	Time Out	14 December 1959	['Cool Jazz']	3.94	8509.0	165.0
+295	[Album26]	R.E.M.	Automatic for the People	6 October 1992	['Alternative Rock', 'Pop Rock']	3.9	14583.0	329.0
+296	[Album9684]	Mos Def	Black on Both Sides	12 October 1999	['East Coast Hip Hop', 'Conscious Hip Hop']	3.96	8294.0	140.0
+297	[Album4869]	Captain Beefheart and His Magic Band	Safe as Milk	September 1967	['Blues Rock', 'Psychedelic Rock']	3.91	10938.0	245.0
+298	[Album1716]	Spiritualized®	Ladies and Gentlemen We Are Floating in Space	16 June 1997	['Neo-Psychedelia', 'Space Rock', 'Art Rock']	3.82	13921.0	188.0
+299	[Album2665585]	Flying Lotus	Cosmogramma	3 May 2010	['IDM', 'Glitch Hop', 'Wonky']	3.8	14982.0	159.0
+300	[Album8282]	Otis Redding	Otis Blue: Otis Redding Sings Soul	15 September 1965	['Deep Soul', 'Southern Soul']	4.01	6028.0	115.0
+301	[Album1431]	Wire	Chairs Missing	August 1978	['Post-Punk', 'Art Punk']	3.95	9057.0	171.0
+302	[Album442105]	Coil	The Ape of Naples	2 December 2005	['Post-Industrial', 'Electronic', 'Experimental']	3.93	9030.0	108.0
+303	[Album503443]	Novos Baianos	Acabou chorare	November 1972	['MPB', 'Samba']	4.07	3931.0	52.0
+304	[Album9275699]	Pusha T	DAYTONA	25 May 2018	['Hardcore Hip Hop', 'Southern Hip Hop']	3.74	15837.0	120.0
+305	[Album2403]	Neil Young	Tonight's the Night	20 June 1975	['Country Rock', 'Singer/Songwriter', 'Folk Rock']	3.98	8074.0	203.0
+306	[Album2286]	Deep Purple	Deep Purple in Rock	3 June 1970	['Hard Rock']	3.92	9034.0	249.0
+307	[Album124756]	Boris	Boris at Last -Feedbacker-	25 December 2003	['Drone Metal', 'Post-Metal', 'Drone', 'Noise Rock']	3.94	8925.0	121.0
+308	[Album79006]	Berliner Philharmoniker	9 Symphonien	1963	['Symphony', 'Classical Period']	4.14	1282.0	27.0
+309	[Album2345]	Soundgarden	Superunknown	8 March 1994	['Grunge', 'Alternative Rock']	3.86	12425.0	313.0
+310	[Album427739]	Miles Davis	A Tribute to Jack Johnson	24 February 1971	['Jazz Fusion', 'Jazz-Rock', 'Film Score']	4.02	5526.0	146.0
+311	[Album2127]	Fugazi	Repeater	20 March 1990	['Post-Hardcore']	3.87	11760.0	131.0
+312	[Album7701]	Red House Painters	Down Colorful Hill	14 September 1992	['Slowcore']	3.9	9315.0	151.0
+313	[Album5313]	T. Rex	Electric Warrior	October 1971	['Glam Rock']	3.93	8601.0	236.0
+314	[Album3602159]	Danny Brown	XXX	15 August 2011	['Hardcore Hip Hop']	3.83	12702.0	105.0
+315	[Album9910]	The Dismemberment Plan	Emergency & I	26 October 1999	['Indie Rock']	3.87	10195.0	147.0
+316	[Album5920]	Genesis	The Lamb Lies Down on Broadway	18 November 1974	['Progressive Rock', 'Rock Opera']	3.96	8155.0	260.0
+317	[Album709]	Brian Eno	Before and After Science	December 1977	['Art Rock']	3.93	8601.0	175.0
+318	[Album31572]	Townes Van Zandt	Townes Van Zandt	September 1969	['Country', 'Singer/Songwriter', 'Contemporary Folk']	4.01	5604.0	61.0
+319	[Album3577]	Prince	"Sign ""☮"" the Times"	30 March 1987	['Pop Rock', 'Contemporary R&B', 'Funk Rock']	4.02	7563.0	184.0
+320	[Album1894992]	Mastodon	Crack the Skye	23 March 2009	['Progressive Metal']	3.86	10138.0	266.0
+321	[Album5629]	Camel	Mirage	1 March 1974	['Symphonic Prog', 'Progressive Rock']	3.96	7904.0	172.0
+322	[Album8021508]	Mount Eerie	A Crow Looked at Me	24 March 2017	['Singer/Songwriter', 'Indie Folk', 'Contemporary Folk']	3.85	11592.0	181.0
+323	[Album2548617]	Beach House	Teen Dream	26 January 2010	['Dream Pop', 'Indie Pop']	3.75	15868.0	249.0
+324	[Album4649]	The Kinks	Arthur or the Decline and Fall of the British Empire	10 October 1969	['Pop Rock']	4.03	6707.0	186.0
+325	[Album2696633]	Joanna Newsom	Have One on Me	23 February 2010	['Chamber Folk', 'Singer/Songwriter', 'Progressive Folk']	3.93	8339.0	228.0
+326	[Album879]	Björk	Debut	13 July 1993	['Art Pop', 'House']	3.73	18324.0	243.0
+327	[Album1033]	Talking Heads	Talking Heads: 77	16 September 1977	['New Wave', 'Art Punk']	3.82	14831.0	211.0
+328	[Album6847528]	Death Grips	Bottomless Pit	6 May 2016	['Industrial Hip Hop', 'Abstract Hip Hop', 'Experimental Hip Hop']	3.79	16594.0	92.0
+329	[Album30878]	Fela Kuti	Zombie	1977	['Afrobeat']	4.02	4899.0	71.0
+330	[Album55442]	The Mars Volta	De-Loused in the Comatorium	17 June 2003	['Progressive Rock', 'Post-Hardcore']	3.79	14497.0	373.0
+331	[Album5386]	Ween	The Mollusk	24 June 1997	['Art Rock', 'Neo-Psychedelia']	3.9	10250.0	133.0
+332	[Album244938]	山岡晃 [Akira Yamaoka]	Silent Hill 2: Original Soundtrack	3 October 2001	['Video Game Music', 'Ambient']	4.05	3809.0	67.0
+333	[Album372]	The Clash	The Clash	8 April 1977	['Punk Rock']	3.85	12393.0	326.0
+334	[Album1110]	Minutemen	Double Nickels on the Dime	October 1984	['Post-Punk', 'Art Punk', 'Punk Rock']	3.92	9886.0	231.0
+335	[Album51445]	Kraftwerk	Computerwelt	10 May 1981	['Synthpop', 'Electronic']	3.91	8796.0	155.0
+336	[Album137491]	Staatsorchester Stuttgart	Tabula rasa	September 1984	['Minimalism']	3.99	4757.0	88.0
+337	[Album1034]	Talking Heads	More Songs About Buildings and Food	7 July 1978	['New Wave', 'Post-Punk', 'Art Punk']	3.87	12421.0	188.0
+338	[Album1093]	Hüsker Dü	Zen Arcade	July 1984	['Post-Hardcore', 'Hardcore Punk']	3.91	10224.0	200.0
+339	[Album70181]	Vince Guaraldi	A Charlie Brown Christmas	December 1965	['Christmas Music', 'Cool Jazz', 'Television Music']	4.03	4539.0	118.0
+340	[Album8344759]	Brockhampton	Saturation II	25 August 2017	['Pop Rap', 'West Coast Hip Hop']	3.75	15075.0	82.0
+341	[Album124755]	Boris	Flood	15 December 2000	['Drone', 'Post-Rock']	3.91	8175.0	119.0
+342	[Album4204]	Death	The Sound of Perseverance	15 September 1998	['Technical Death Metal', 'Progressive Metal']	3.9	8814.0	188.0
+343	[Album3429]	John Coltrane	Ascension [Edition I]	February 1966	['Free Jazz', 'Spiritual Jazz']	3.98	5991.0	111.0
+344	[Album8758]	Stan Getz & João Gilberto featuring Antônio Carlos Jobim	Getz / Gilberto	April 1964	['Bossa nova']	3.96	7309.0	128.0
+345	[Album308550]	New Order	Power, Corruption & Lies	2 May 1983	['Synthpop', 'New Wave', 'Post-Punk']	3.82	14082.0	175.0
+346	[Album1322533]	Fleet Foxes	Fleet Foxes	3 June 2008	['Chamber Folk', 'Indie Folk']	3.74	15497.0	358.0
+347	[Album4012]	Burzum	Hvis lyset tar oss	April 1994	['Atmospheric Black Metal', 'Black Metal']	3.86	9557.0	184.0
+348	[Album1037]	Talking Heads	Speaking in Tongues	1 June 1983	['New Wave']	3.85	11287.0	135.0
+349	[Album41463]	Jorge Ben	A Tábua de Esmeralda	1974	['MPB', 'Samba-Rock']	4.03	3843.0	71.0
+350	[Album734252]	Arcade Fire	Neon Bible	6 March 2007	['Indie Rock']	3.68	19193.0	475.0
+351	[Album923022]	Violent Femmes	Violent Femmes	13 April 1983	['Folk Punk', 'Alternative Rock', 'Acoustic Rock']	3.83	12150.0	207.0
+352	[Album1432]	Wire	154	23 September 1979	['Post-Punk', 'Art Punk']	3.95	7629.0	130.0
+353	[Album11245349]	Fiona Apple	Fetch the Bolt Cutters	17 April 2020	['Art Pop', 'Singer/Songwriter', 'Progressive Pop']	3.77	13698.0	217.0
+354	[Album9386]	Chico Buarque	Construção	1971	['MPB', 'Singer/Songwriter']	4.01	4018.0	61.0
+355	[Album5160]	Slayer	Seasons in the Abyss	9 October 1990	['Thrash Metal']	3.89	9315.0	211.0
+356	[Album17902]	Agalloch	The Mantle	13 August 2002	['Folk Metal', 'Post-Metal']	3.84	10222.0	196.0
+357	[Album9858]	Deltron 3030	Deltron 3030	17 October 2000	['West Coast Hip Hop', 'Experimental Hip Hop', 'Abstract Hip Hop']	3.88	9034.0	133.0
+358	[Album143]	Pulp	Different Class	30 October 1995	['Britpop']	3.92	10065.0	209.0
+359	[Album3377949]	C418	Minecraft: Volume Alpha	4 March 2011	['Ambient', 'Video Game Music']	3.98	6376.0	63.0
+360	[Album839]	Soft Machine	Third	6 June 1970	['Canterbury Scene', 'Jazz-Rock', 'Jazz Fusion']	3.91	7266.0	162.0
+361	[Album8191615]	Kendrick Lamar	Damn.	14 April 2017	['West Coast Hip Hop', 'Conscious Hip Hop']	3.51	24419.0	214.0
+362	[Album471234]	Agalloch	Ashes Against the Grain	8 August 2006	['Post-Metal']	3.9	8133.0	163.0
+363	[Album1740]	Sly & The Family Stone	There's a Riot Goin' On	20 November 1971	['Funk', 'Soul', 'Psychedelic Soul']	3.94	6971.0	173.0
+364	[Album22375]	Ulver	Bergtatt: Et eeventyr i 5 capitler	February 1995	['Atmospheric Black Metal', 'Pagan Black Metal']	3.89	9400.0	128.0
+365	[Album6210]	Faust	Faust IV	21 September 1973	['Krautrock']	3.89	8515.0	113.0
+366	[Album27682]	Raekwon	Only Built 4 Cuban Linx...	1 August 1995	['East Coast Hip Hop', 'Gangsta Rap', 'Boom Bap', 'Hardcore Hip Hop']	3.93	7501.0	160.0
+367	[Album4418]	Mr. Bungle	California	13 July 1999	['Experimental Rock', 'Art Rock']	3.87	8502.0	193.0
+368	[Album723260]	Panda Bear	Person Pitch	20 March 2007	['Psychedelic Pop', 'Neo-Psychedelia']	3.79	12625.0	271.0
+369	[Album1800]	Captain Beefheart & His Magic Band	Trout Mask Replica	16 June 1969	['Experimental Rock']	3.69	14144.0	636.0
+370	[Album13532]	Miles Davis	Get Up With It	22 November 1974	['Jazz Fusion', 'Jazz-Funk']	4.03	4112.0	87.0
+371	[Album3799]	Faith No More	Angel Dust	8 June 1992	['Alternative Metal', 'Alternative Rock']	3.85	10525.0	260.0
+372	[Album3888174]	Beach House	Bloom	15 May 2012	['Dream Pop', 'Indie Pop']	3.75	14737.0	217.0
+373	[Album40634]	Magnolia Electric Co.	The Magnolia Electric Co.	4 March 2003	['Alt-Country', 'Country Rock']	3.97	5586.0	74.0
+374	[Album243]	Brian Eno	Ambient 1: Music for Airports	March 1978	['Ambient']	3.76	12805.0	225.0
+375	[Album2966]	D'Angelo	Voodoo	25 January 2000	['Neo-Soul']	3.94	6566.0	83.0
+376	[Album1118]	Sonic Youth	Goo	26 June 1990	['Alternative Rock', 'Noise Rock']	3.8	14193.0	188.0
+377	[Album18447]	Low	I Could Live in Hope	18 February 1994	['Slowcore']	3.87	8830.0	120.0
+378	[Album4193]	Emperor	In the Nightside Eclipse	21 February 1994	['Symphonic Black Metal', 'Black Metal']	3.9	7873.0	147.0
+379	[Album807633]	The National	Boxer	22 May 2007	['Indie Rock', 'Post-Punk Revival']	3.81	12789.0	281.0
+380	[Album11341]	Rainbow	Rising	17 May 1976	['Hard Rock', 'Heavy Metal']	3.93	7058.0	204.0
+381	[Album4065445]	Tame Impala	Lonerism	5 October 2012	['Neo-Psychedelia']	3.7	17311.0	193.0
+382	[Album2934347]	Arcade Fire	The Suburbs	3 August 2010	['Indie Rock']	3.68	18149.0	363.0
+383	[Album806]	Ramones	Ramones	23 April 1976	['Punk Rock']	3.8	12336.0	398.0
+384	[Album14705]	John Coltrane	Olé Coltrane	November 1961	['Modal Jazz']	4.02	4335.0	80.0
+385	[Album644]	OutKast	Stankonia	31 October 2000	['Southern Hip Hop']	3.84	11184.0	129.0
+386	[Album1115]	Sonic Youth	EVOL	May 1986	['Noise Rock', 'Experimental Rock']	3.84	11155.0	162.0
+387	[Album23310]	Glenn Branca	The Ascension	November 1981	['No Wave', 'Noise Rock', 'Experimental Rock', 'Totalism']	3.92	7949.0	119.0
+388	[Album361]	Scott Engel	Scott 4	November 1969	['Baroque Pop', 'Singer/Songwriter']	3.93	7016.0	132.0
+389	[Album13541]	Duster	Stratosphere	24 February 1998	['Slowcore', 'Lo-Fi / Slacker Rock']	3.91	8627.0	85.0
+390	[Album42034]	Broken Social Scene	You Forgot It in People	15 October 2002	['Indie Rock']	3.86	10009.0	207.0
+391	[Album175797]	Isis	Panopticon	19 October 2004	['Atmospheric Sludge Metal', 'Post-Metal']	3.89	8730.0	158.0
+392	[Album5719]	Yes	The Yes Album	29 January 1971	['Progressive Rock']	3.89	9133.0	226.0
+393	[Album844]	The Stooges	The Stooges	5 August 1969	['Garage Rock', 'Proto-Punk']	3.84	11988.0	260.0
+394	[Album2614]	Built to Spill	Keep It Like a Secret	2 February 1999	['Indie Rock']	3.91	8247.0	117.0
+395	[Album6053920]	D'Angelo and The Vanguard	Black Messiah	15 December 2014	['Neo-Soul']	3.9	7992.0	77.0
+396	[Album1039131]	Berliner Philharmoniker	Symphony No. 9	1963	['Symphony', 'Romanticism']	4.07	1001.0	8.0
+397	[Album11643355]	The Microphones	Microphones in 2020	7 August 2020	['Singer/Songwriter', 'Indie Folk', 'Avant-Folk']	3.95	6367.0	171.0
+398	[Album333322]	Opeth	Ghost Reveries	30 August 2005	['Progressive Metal']	3.89	8825.0	215.0
+399	[Album7976]	Van der Graaf Generator	Pawn Hearts	October 1971	['Progressive Rock']	3.93	5684.0	140.0
+400	[Album7702]	Red House Painters	Red House Painters [Rollercoaster]	24 May 1993	['Slowcore']	3.93	6819.0	120.0
+401	[Album186]	The Who	Quadrophenia	26 October 1973	['Rock Opera', 'Hard Rock']	3.91	8243.0	283.0
+402	[Album2645]	NEU!	NEU!	1972	['Krautrock']	3.81	10697.0	203.0
+403	[Album661816]	Dead Can Dance	Within the Realm of a Dying Sun	July 1987	['Neoclassical Darkwave']	3.89	7521.0	121.0
+404	[Album10878]	Swans	White Light From the Mouth of Infinity	5 June 1991	['Gothic Rock', 'Post-Punk']	3.86	10223.0	98.0
+405	[Album2082]	Guided by Voices	Bee Thousand	21 June 1994	['Lo-Fi / Slacker Rock', 'Indie Rock']	3.86	8875.0	175.0
+406	[Album632]	David Bowie	Scary Monsters (And Super Creeps)	12 September 1980	['Art Rock', 'New Wave']	3.82	11637.0	242.0
+407	[Album47142]	Gang Starr	Moment of Truth	31 March 1998	['East Coast Hip Hop', 'Boom Bap']	3.99	4693.0	91.0
+408	[Album634014]	Brand New	The Devil and God Are Raging Inside Me	21 November 2006	['Emo', 'Indie Rock']	3.79	12585.0	216.0
+409	[Album1094980]	New York Philharmonic	Le sacre du printemps	1958	['Modern Classical', 'Orchestral']	4.04	2038.0	19.0
+410	[Album355297]	Animal Collective	Feels	18 October 2005	['Neo-Psychedelia']	3.78	14159.0	231.0
+411	[Album2667]	The Roots	Things Fall Apart	23 February 1999	['East Coast Hip Hop', 'Jazz Rap']	3.91	7337.0	79.0
+412	[Album1098]	The Smiths	Meat Is Murder	11 February 1985	['Jangle Pop', 'Indie Pop']	3.76	15812.0	239.0
+413	[Album1060497]	Bon Iver	For Emma, Forever Ago	8 July 2007	['Indie Folk', 'Singer/Songwriter']	3.75	15272.0	222.0
+414	[Album2192747]	Sweet Trip	You Will Never Know Why	28 September 2009	['Indie Pop', 'Dream Pop']	3.97	5554.0	42.0
+415	[Album8429]	Nico	Desertshore	December 1970	['Avant-Folk', 'Chamber Folk']	3.87	7393.0	113.0
+416	[Album1055]	The Jesus and Mary Chain	Psychocandy	18 November 1985	['Noise Pop', 'Post-Punk']	3.76	13958.0	269.0
+417	[Album8166]	Crosby, Stills, Nash & Young	Déjà vu	11 March 1970	['Folk Rock']	3.93	6838.0	181.0
+418	[Album3074508]	Sufjan Stevens	The Age of Adz	12 October 2010	['Art Pop', 'Progressive Pop', 'Indietronica']	3.81	11932.0	182.0
+419	[Album4145]	Iron Maiden	Iron Maiden	14 April 1980	['NWOBHM', 'Heavy Metal']	3.83	11474.0	319.0
+420	[Album39355]	Sun Ra	Lanquidity	1978	['Jazz Fusion']	3.97	4850.0	48.0
+421	[Album8527774]	Brockhampton	Saturation III	15 December 2017	['Pop Rap', 'West Coast Hip Hop']	3.74	13953.0	63.0
+422	[Album4202]	Death	Individual Thought Patterns	30 June 1993	['Technical Death Metal']	3.91	7408.0	128.0
+423	[Album3583]	Bruce Springsteen	Darkness on the Edge of Town	2 June 1978	['Heartland Rock', 'Singer/Songwriter']	3.92	7399.0	164.0
+424	[Album3115]	Bob Marley	Exodus	3 June 1977	['Roots Reggae']	3.95	6097.0	113.0
+425	[Album90705]	Sun Kil Moon	Ghosts of the Great Highway	4 November 2003	['Folk Rock', 'Singer/Songwriter']	3.93	6623.0	87.0
+426	[Album7753946]	Denzel Curry	TA13OO	27 July 2018	['Southern Hip Hop', 'Trap']	3.75	14536.0	107.0
+427	[Album2281]	Black Sabbath	Heaven and Hell	25 April 1980	['Heavy Metal']	3.85	9685.0	277.0
+428	[Album10453]	The Chameleons	Script of the Bridge	1 August 1983	['Post-Punk']	3.91	6750.0	149.0
+429	[Album4000]	Darkthrone	A Blaze in the Northern Sky	26 February 1992	['Black Metal']	3.89	7563.0	119.0
+430	[Album3322739]	Fleet Foxes	Helplessness Blues	3 May 2011	['Indie Folk', 'Chamber Folk']	3.79	11756.0	197.0
+431	[Album6702]	Bruce Springsteen	Nebraska	20 September 1982	['Singer/Songwriter', 'Contemporary Folk', 'Americana']	3.87	8875.0	213.0
+432	[Album12136]	The Modern Lovers	The Modern Lovers	August 1976	['Proto-Punk', 'Garage Rock']	3.9	7706.0	192.0
+433	[Album24827]	Sonny Rollins	Saxophone Colossus	April 1957	['Hard Bop']	3.97	4852.0	81.0
+434	[Album4194]	Emperor	Anthems to the Welkin at Dusk	8 July 1997	['Symphonic Black Metal']	3.92	5944.0	116.0
+435	[Album6216]	NEU!	NEU! '75	1975	['Krautrock']	3.91	6934.0	103.0
+436	[Album10400]	Miles Davis	On the Corner	11 October 1972	['Jazz Fusion', 'Jazz-Funk']	3.94	6113.0	145.0
+437	[Album354]	My Bloody Valentine	Isn't Anything	21 November 1988	['Noise Pop', 'Shoegaze']	3.73	15399.0	210.0
+438	[Album184040]	Mastodon	Leviathan	31 August 2004	['Sludge Metal', 'Progressive Metal']	3.85	10644.0	168.0
+439	[Album3390]	Rush	Hemispheres	29 October 1978	['Progressive Rock', 'Hard Rock']	3.89	7425.0	199.0
+440	[Album1731]	Steely Dan	Aja	23 September 1977	['Jazz-Rock', 'Pop Rock']	3.92	8349.0	223.0
+441	[Album24752]	Godspeed You! Black Emperor	Yanqui U.X.O.	4 November 2002	['Post-Rock']	3.78	12154.0	167.0
+442	[Album12690]	Morbid Angel	Altars of Madness	12 May 1989	['Death Metal']	3.89	7062.0	125.0
+443	[Album731]	PJ Harvey	To Bring You My Love	28 February 1995	['Alternative Rock', 'Singer/Songwriter']	3.88	8477.0	143.0
+444	[Album3781]	Megadeth	Peace Sells... But Who's Buying?	19 September 1986	['Thrash Metal', 'Speed Metal']	3.83	10621.0	268.0
+445	[Album73082]	Nina Simone	Pastel Blues	October 1965	['Vocal Jazz', 'Soul', 'Rhythm & Blues']	3.98	4176.0	43.0
+446	[Album10596352]	JPEGMAFIA	All My Heroes Are Cornballs	13 September 2019	['Experimental Hip Hop', 'Glitch Hop']	3.72	12929.0	134.0
+447	[Album4479921]	Queens of the Stone Age	...Like Clockwork	3 June 2013	['Alternative Rock']	3.79	11287.0	137.0
+448	[Album808]	Ramones	Rocket to Russia	4 November 1977	['Punk Rock']	3.88	7893.0	157.0
+449	[Album2091]	Iron Maiden	Somewhere in Time	29 September 1986	['Heavy Metal']	3.86	9127.0	229.0
+450	[Album13394]	Boredoms	Vision Creation Newsun	10 December 1999	['Experimental Rock', 'Neo-Psychedelia', 'Psychedelic Rock']	3.86	8605.0	148.0
+451	[Album64354]	The John Coltrane Quartet	Africa / Brass	1 September 1961	['Modal Jazz', 'Post-Bop']	4.01	3767.0	49.0
+452	[Album81646]	Wipers	Youth of America	11 November 1981	['Post-Punk', 'Punk Rock']	3.94	6286.0	95.0
+453	[Album14338]	Parliament	Mothership Connection	15 December 1975	['P-Funk']	3.93	5453.0	91.0
+454	[Album11130]	Cannonball Adderley	Somethin' Else	August 1958	['Hard Bop']	3.95	4856.0	109.0
+455	[Album1712]	Nine Inch Nails	The Fragile	21 September 1999	['Industrial Rock', 'Art Rock', 'Alternative Rock']	3.88	10153.0	219.0
+456	[Album201]	The Magnetic Fields	69 Love Songs	7 September 1999	['Indie Pop']	3.84	8384.0	241.0
+457	[Album7381150]	Freddie Gibbs & Madlib	Bandana	28 June 2019	['Gangsta Rap']	3.77	11339.0	84.0
+458	[Album40909]	Ennio Morricone	C'era una volta il West	1968	['Film Score', 'Spaghetti Western']	4.04	2159.0	45.0
+459	[Album19392]	Dissection	Storm of the Light's Bane	17 November 1995	['Melodic Black Metal']	3.92	6234.0	115.0
+460	[Album7048527]	Car Seat Headrest	Teens of Denial	20 May 2016	['Indie Rock']	3.79	11282.0	92.0
+461	[Album2959]	Talk Talk	The Colour of Spring	March 1986	['Art Pop']	3.85	8397.0	138.0
+462	[Album12445]	Organized Konfusion	Stress: The Extinction Agenda	16 August 1994	['East Coast Hip Hop', 'Boom Bap', 'Conscious Hip Hop', 'Jazz Rap']	3.98	3439.0	72.0
+463	[Album7793]	Sly and The Family Stone	Stand!	3 May 1969	['Funk', 'Psychedelic Soul']	3.95	5476.0	117.0
+464	[Album453567]	Fishmans	宇宙 日本 世田谷 (Uchū Nippon Setagaya)	24 July 1997	['Dream Pop', 'Downtempo', 'Ambient Pop']	3.97	5946.0	33.0
+465	[Album5543]	Roxy Music	For Your Pleasure	23 March 1973	['Art Rock', 'Glam Rock']	3.88	7286.0	162.0
+466	[Album7216]	Dr. Dre	The Chronic	15 December 1992	['G-Funk', 'West Coast Hip Hop', 'Gangsta Rap']	3.81	10024.0	246.0
+467	[Album13931]	Mahavishnu Orchestra	The Inner Mounting Flame	3 November 1971	['Jazz Fusion', 'Jazz-Rock']	3.91	5816.0	144.0
+468	[Album11342]	Judas Priest	Sad Wings of Destiny	23 March 1976	['Heavy Metal']	3.9	6857.0	193.0
+469	[Album25613]	Jay-Z	Reasonable Doubt	25 June 1996	['East Coast Hip Hop', 'Boom Bap']	3.88	7930.0	160.0
+470	[Album103098]	Viktor Vaughn	Vaudeville Villain	16 September 2003	['Abstract Hip Hop', 'East Coast Hip Hop']	3.92	6566.0	66.0
+471	[Album9136]	Isaac Hayes	Hot Buttered Soul	May 1969	['Soul']	3.95	4743.0	121.0
+472	[Album6295]	Bob Dylan	Desire	5 January 1976	['Folk Rock', 'Singer/Songwriter']	3.9	8566.0	216.0
+473	[Album4906]	Neurosis	Through Silver in Blood	2 April 1996	['Atmospheric Sludge Metal', 'Sludge Metal']	3.91	6324.0	115.0
+474	[Album3651]	The Mothers of Invention	Freak Out!	27 June 1966	['Experimental Rock', 'Satire']	3.83	10555.0	277.0
+475	[Album1310]	Elliott Smith	Elliott Smith	21 July 1995	['Singer/Songwriter', 'Indie Folk']	3.88	9274.0	131.0
+476	[Album4151]	Mayhem	De mysteriis dom Sathanas	24 May 1994	['Black Metal']	3.84	8238.0	169.0
+477	[Album2132]	Fugazi	The Argument	11 October 2001	['Post-Hardcore', 'Indie Rock']	3.9	7543.0	112.0
+478	[Album348392]	Sigur Rós	Takk...	13 September 2005	['Post-Rock']	3.76	12438.0	239.0
+479	[Album4878]	Santana	Abraxas	23 September 1970	['Latin Rock']	3.92	6241.0	142.0
+480	[Album157]	Stereolab	Dots and Loops	23 September 1997	['Art Pop', 'Indietronica']	3.9	6857.0	81.0
+481	[Album685]	Serge Gainsbourg	Histoire de Melody Nelson	24 March 1971	['French Pop', 'Art Pop']	3.86	7422.0	168.0
+482	[Album2829672]	LCD Soundsystem	This Is Happening	18 May 2010	['Dance-Punk', 'Indietronica']	3.78	12603.0	175.0
+483	[Album705]	Eno	Taking Tiger Mountain (By Strategy)	November 1974	['Art Rock', 'Art Pop']	3.88	7984.0	147.0
+484	[Album494216]	Kanye West	Graduation	11 September 2007	['Pop Rap']	3.53	23066.0	222.0
+485	[Album3572]	Snoop Doggy Dogg	Doggystyle	23 November 1993	['G-Funk', 'West Coast Hip Hop', 'Gangsta Rap']	3.84	8477.0	176.0
+486	[Album813080]	Porcupine Tree	In absentia	24 September 2002	['Progressive Rock']	3.81	10137.0	253.0
+487	[Album5159]	Slayer	South of Heaven	5 July 1988	['Thrash Metal']	3.85	8797.0	159.0
+488	[Album12095]	Caravan	In the Land of Grey and Pink	8 April 1971	['Canterbury Scene', 'Progressive Rock']	3.91	5817.0	170.0
+489	[Album3805982]	Lil Ugly Mane	Mista Thug Isolation	11 February 2012	['Memphis Rap', 'Southern Hip Hop']	3.86	8714.0	52.0
+490	[Album88585]	椎名林檎 [Sheena Ringo]	加爾基 精液 栗ノ花 (Kalk samen kuri no hana)	23 February 2003	['Art Pop', 'Art Rock', 'Progressive Pop']	3.93	4863.0	67.0
+491	[Album5932]	Peter Gabriel	Peter Gabriel	30 May 1980	['Art Rock']	3.9	6241.0	141.0
+492	[Album626992]	Tim Hecker	Harmony in Ultraviolet	16 October 2006	['Ambient']	3.86	6927.0	68.0
+493	[Album757]	Charles Mingus	Mingus Mingus Mingus Mingus Mingus	May 1964	['Post-Bop']	3.98	4144.0	58.0
+494	[Album4650]	The Kinks	Something Else by The Kinks	15 September 1967	['Pop Rock', 'Baroque Pop']	3.93	6875.0	200.0
+495	[Album2088]	Iron Maiden	Piece of Mind	16 May 1983	['Heavy Metal', 'NWOBHM']	3.82	10602.0	257.0
+496	[Album53859]	Ween	Quebec	5 August 2003	['Art Rock', 'Psychedelic Rock', 'Alternative Rock', 'Neo-Psychedelia']	3.94	5967.0	81.0
+497	[Album17057]	Gorguts	Obscura	23 June 1998	['Technical Death Metal', 'Avant-Garde Metal']	3.92	5647.0	146.0
+498	[Album9013]	Suicide	Suicide	28 December 1977	['Synth Punk', 'Minimal Synth']	3.79	11392.0	262.0
+499	[Album8078]	Iggy Pop	The Idiot	18 March 1977	['Art Rock', 'Post-Punk']	3.86	9274.0	165.0
+500	[Album3225]	Iggy Pop	Lust for Life	9 September 1977	['Art Rock']	3.83	9104.0	145.0
