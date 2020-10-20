@@ -10,7 +10,7 @@ def parse_stats(text):
     matches = re.search("([\d\.]+)\D+([\d,]+)\D+([\d,]+)", text).groups()
     convert_to_numeric = lambda x: float(x.replace(",", ""))
     rating, num_ratings, num_reviews = map(convert_to_numeric, matches)
-    return rating, num_ratings, num_reviews
+    return rating, int(num_ratings), int(num_reviews)
 
 
 def extract_albums_from_html(soup, start_pos=0):
@@ -47,10 +47,14 @@ def extract_albums_from_html(soup, start_pos=0):
     for i, (album_entry, stats_entry) in enumerate(z, start=1):
         position = i + start_pos
         album_id = album_entry.find("a", class_="album")["title"]
+        album_id = re.search("(Album\d+)", album_id).groups()[0]
         album_artist = album_entry.find("a", class_="artist").text
         album_name = album_entry.find("a", class_="album").text
-        album_date = album_entry.find("div", class_="chart_year").text.strip()
+        album_date = album_entry.find("span", class_="chart_year").text.strip()
+        album_date = re.search("(\d+)", album_date).groups()[0]
         album_genres = [x.text for x in album_entry.find_all("a", class_="genre")]
+        album_genres = str(album_genres)[1:-1]
+        album_genres = album_genres.replace("'", "")
         
         this_album_dict = dict()
         this_album_dict["album_id"] = album_id
@@ -72,7 +76,7 @@ def extract_albums_from_html(soup, start_pos=0):
 
 
 if __name__ == "__main__":
-    all_pages = glob.glob("pages/*.html")
+    all_pages = glob.glob("pages/rym_top_500/*.html")
     all_albums_dict = dict()
     for i, page in enumerate(all_pages):
         with open(page, "r") as f:
