@@ -58,8 +58,8 @@ def extract_albums_from_html(soup, start_pos=0):
         
         this_album_dict = dict()
         this_album_dict["album_id"] = album_id
-        this_album_dict["artist"] = album_artist
-        this_album_dict["name"] = album_name
+        this_album_dict["artist"] = album_artist.title()
+        this_album_dict["name"] = album_name.title()
         this_album_dict["date"] = album_date
         this_album_dict["genres"] = album_genres
 

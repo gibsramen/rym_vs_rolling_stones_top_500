@@ -37,8 +37,8 @@ def parse_album_entry(entry):
     year = int(re.search("(\d+)\",\"slug", entry).groups()[0])
 
     this_album_dict = dict()
-    this_album_dict["artist"] = artist
-    this_album_dict["name"] = album
+    this_album_dict["artist"] = artist.title()
+    this_album_dict["name"] = album.title()
     this_album_dict["date"] = year
     return position, this_album_dict
 
